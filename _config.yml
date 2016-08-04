@@ -6,9 +6,9 @@ color:
   saturation: 0.9986676424741745
   rhythmicContrast: 0.060359638184309006
   brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
+    - '#10222B'
+    - '#95AB63'
+    - '#BDD684'
+    - '#E2F0D6'
+    - '#F6FFE0'
 name: custom space
