@@ -1,4 +1,3 @@
-layout_spectrum: 0.5361079727299511
 typography_spectrum: 0.12738458113744855
 color:
   brandStrength: 0.8155869352631271
@@ -6,9 +5,13 @@ color:
   saturation: 0.9986676424741745
   rhythmicContrast: 0.060359638184309006
   brandColors:
-    - '#10222B'
-    - '#95AB63'
-    - '#BDD684'
-    - '#E2F0D6'
-    - '#F6FFE0'
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+layout_spectrum: 0.5361079727299511
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/de440ae2-495b-4c2a-9d6b-f3da48db9890.png
 name: custom space
+title: create your own stage in your outdoors
