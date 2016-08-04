@@ -1,0 +1,14 @@
+layout_spectrum: 0.5361079727299511
+typography_spectrum: 0.12738458113744855
+color:
+  brandStrength: 0.8155869352631271
+  lightness: 0.9834609455429018
+  saturation: 0.9986676424741745
+  rhythmicContrast: 0.060359638184309006
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+name: custom space
